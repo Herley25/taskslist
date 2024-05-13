@@ -36,3 +36,10 @@ ou
 yarn install
 ```
 
+Start the server
+```bash
+npm dev
+ou
+yarn dev
+```
+
